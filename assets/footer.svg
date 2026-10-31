@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Good systems begin with a good question. Hiring for AI/ML, a research idea, or a system worth building: let's talk.">
 <title>Good systems begin with a good question. Hiring for AI/ML, a research idea, or a system worth building: let's talk.</title>
 <defs>
-<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9CB088"/><stop offset="1" stop-color="#8FA5B3"/></linearGradient>
 
-<linearGradient id="wg" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF" stop-opacity=".25"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".25"/></linearGradient>
+<linearGradient id="wg" x1="0" x2="1"><stop offset="0" stop-color="#9CB088" stop-opacity=".20"/><stop offset="1" stop-color="#D08A6C" stop-opacity=".16"/></linearGradient>
 <clipPath id="clip"><rect width="1200" height="230" rx="20"/></clipPath>
 
 </defs>
@@ -26,12 +26,12 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 </style>
 
 <g clip-path="url(#clip)">
-  <rect x="0.5" y="0.5" width="1199" height="229" rx="20" fill="#0A0E14" stroke="#1F2733"/>
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="20" fill="#181614" stroke="#36312B"/>
   <path class="w2" d="M0 176 Q100.0 160 200.0 176 T400.0 176 Q500.0 160 600.0 176 T800.0 176 Q900.0 160 1000.0 176 T1200.0 176 Q1300.0 160 1400.0 176 T1600.0 176 Q1700.0 160 1800.0 176 T2000.0 176 Q2100.0 160 2200.0 176 T2400.0 176 V230 H0 Z" fill="url(#wg)" fill-opacity=".6"/>
   <path class="w1" d="M0 190 Q75.0 178 150.0 190 T300.0 190 Q375.0 178 450.0 190 T600.0 190 Q675.0 178 750.0 190 T900.0 190 Q975.0 178 1050.0 190 T1200.0 190 Q1275.0 178 1350.0 190 T1500.0 190 Q1575.0 178 1650.0 190 T1800.0 190 Q1875.0 178 1950.0 190 T2100.0 190 Q2175.0 178 2250.0 190 T2400.0 190 V230 H0 Z" fill="url(#wg)"/>
 </g>
-<rect x="0.5" y="0.5" width="1199" height="229" rx="20" fill="none" stroke="#1F2733"/>
-<text class="rise" x="600.0" y="86" font-size="34" font-weight="700" fill="#E6EDF3" text-anchor="middle">Good systems begin with a good question.</text>
-<text class="mono rise" x="600.0" y="128" font-size="17" fill="#8B98A9" text-anchor="middle" style="animation-delay:.2s">hiring for AI/ML · research idea · a system worth building → let’s talk</text>
+<rect x="0.5" y="0.5" width="1199" height="229" rx="20" fill="none" stroke="#36312B"/>
+<text class="rise" x="600.0" y="86" font-size="34" font-weight="700" fill="#ECE4D6" text-anchor="middle">Good systems begin with a good question.</text>
+<text class="mono rise" x="600.0" y="128" font-size="17" fill="#A69D8F" text-anchor="middle" style="animation-delay:.2s">hiring for AI/ML · research idea · a system worth building → let’s talk</text>
 
 </svg>

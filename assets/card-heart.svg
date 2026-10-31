@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="336" viewBox="0 0 540 336" role="img" aria-label="Heart-Disease Ensemble: Random Forest + XGBoost + LogReg stacked under a 5-fold cross-validated meta-learner. 89.13% cv accuracy · +2.4 pts over best single.">
 <title>Heart-Disease Ensemble: Random Forest + XGBoost + LogReg stacked under a 5-fold cross-validated meta-learner. 89.13% cv accuracy · +2.4 pts over best single.</title>
 <defs>
-<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9CB088"/><stop offset="1" stop-color="#8FA5B3"/></linearGradient>
 
 </defs>
 <style>
@@ -18,18 +18,18 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 
 </style>
 
-<rect x="0.5" y="0.5" width="539" height="335" rx="18" fill="#0D1117" stroke="#1F2733"/>
-<rect x="24" y="0" width="120" height="3" rx="1.5" fill="url(#grad)"/>
-<text class="mono" x="26" y="44" font-size="14" fill="#2DD4BF" letter-spacing="2" text-anchor="start">05 · CLASSICAL ML</text>
-<rect x="399.34000000000003" y="23" width="114.66" height="30" rx="15" fill="#A78BFA" fill-opacity=".10" stroke="#A78BFA" stroke-opacity=".45"/>
+<rect x="0.5" y="0.5" width="539" height="335" rx="18" fill="#1E1B18" stroke="#36312B"/>
+<rect x="24" y="0" width="120" height="3" rx="1.5" fill="#D08A6C"/>
+<text class="mono" x="26" y="44" font-size="14" fill="#9CB088" letter-spacing="2" text-anchor="start">05 · CLASSICAL ML</text>
+<rect x="399.34000000000003" y="23" width="114.66" height="30" rx="15" fill="#8FA5B3" fill-opacity=".10" stroke="#8FA5B3" stroke-opacity=".45"/>
 
-<text class="mono" x="412.34000000000003" y="43" font-size="13" fill="#A78BFA" letter-spacing="1">OPEN SOURCE</text>
-<text x="26" y="96" font-size="30" font-weight="700" fill="#E6EDF3" letter-spacing="-0.3">Heart-Disease Ensemble</text>
-<text x="26" y="134" font-size="18.5" fill="#8B98A9">Random Forest + XGBoost + LogReg stacked</text>
-<text x="26" y="161" font-size="18.5" fill="#8B98A9">under a 5-fold cross-validated meta-learner.</text>
-<line x1="26" y1="234.5" x2="514" y2="234.5" stroke="#1F2733"/>
-<text x="26" y="286" font-size="38" font-weight="700" fill="url(#grad)" letter-spacing="-0.5">89.13%</text>
-<text class="mono" x="26" y="314" font-size="13.5" fill="#8B98A9" letter-spacing="1">CV ACCURACY · +2.4 PTS OVER BEST SINGLE</text>
-<rect x="26" y="184" width="126.16" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="89.08" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">scikit-learn</text><rect x="160.16" y="184" width="82.75999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="201.54" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">XGBoost</text><rect x="250.92" y="184" width="82.75999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="292.29999999999995" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">FastAPI</text>
+<text class="mono" x="412.34000000000003" y="43" font-size="13" fill="#8FA5B3" letter-spacing="1">OPEN SOURCE</text>
+<text x="26" y="96" font-size="30" font-weight="700" fill="#ECE4D6" letter-spacing="-0.3">Heart-Disease Ensemble</text>
+<text x="26" y="134" font-size="18.5" fill="#A69D8F">Random Forest + XGBoost + LogReg stacked</text>
+<text x="26" y="161" font-size="18.5" fill="#A69D8F">under a 5-fold cross-validated meta-learner.</text>
+<line x1="26" y1="234.5" x2="514" y2="234.5" stroke="#36312B"/>
+<text x="26" y="286" font-size="38" font-weight="700" fill="#D08A6C" letter-spacing="-0.5">89.13%</text>
+<text class="mono" x="26" y="314" font-size="13.5" fill="#A69D8F" letter-spacing="1">CV ACCURACY · +2.4 PTS OVER BEST SINGLE</text>
+<rect x="26" y="184" width="126.16" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="89.08" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">scikit-learn</text><rect x="160.16" y="184" width="82.75999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="201.54" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">XGBoost</text><rect x="250.92" y="184" width="82.75999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="292.29999999999995" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">FastAPI</text>
 
 </svg>

@@ -1,10 +1,10 @@
 <a href="https://shrijal-goswami.vercel.app"><img src="./assets/header.svg" width="100%" alt="Shrijal Goswami, AI/ML Engineer. I build the part of AI that survives real traffic. Open to 2026 AI/ML internships."/></a>
 
 <p align="center">
-  <a href="https://shrijal-goswami.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0E14?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/shrijal-goswami"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:goswamivansh999@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Email"/></a>
-  <a href="https://hirevo.in"><img src="https://img.shields.io/badge/Hirevo-live-34D399?style=for-the-badge&labelColor=0A0E14" alt="Hirevo is live"/></a>
+  <a href="https://shrijal-goswami.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181614?style=for-the-badge&logo=vercel&logoColor=9CB088" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shrijal-goswami"><img src="https://img.shields.io/badge/LinkedIn-181614?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:goswamivansh999@gmail.com"><img src="https://img.shields.io/badge/Email-181614?style=for-the-badge&logo=gmail&logoColor=D5B072" alt="Email"/></a>
+  <a href="https://hirevo.in"><img src="https://img.shields.io/badge/Hirevo-live-9CB088?style=for-the-badge&labelColor=181614" alt="Hirevo is live"/></a>
 </p>
 
 <img src="./assets/terminal.svg" width="100%" alt="About: Shrijal Goswami, AI/ML Engineer, B.Tech CSE (AI and ML) at VIT Bhopal. AI Strategist at AKademy38. Shipped Hirevo, Booklet Engine, AI Tutor and Resume Intelligence."/>

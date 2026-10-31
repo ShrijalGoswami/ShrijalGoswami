@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="03 — SELECTED WORK: Six systems, measured.">
 <title>03 — SELECTED WORK: Six systems, measured.</title>
 <defs>
-<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9CB088"/><stop offset="1" stop-color="#8FA5B3"/></linearGradient>
 
 </defs>
 <style>
@@ -18,9 +18,9 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 
 </style>
 
-<rect x="0.5" y="0.5" width="1199" height="139" rx="20" fill="#0A0E14" stroke="#1F2733"/>
-<rect x="30" y="0" width="120" height="3" rx="1.5" fill="url(#grad)"/>
-<text class="mono" x="30" y="42" font-size="16" fill="#2DD4BF" letter-spacing="2" text-anchor="start">03 — SELECTED WORK</text>
-<text class="rise" x="28" y="88" font-size="40" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">Six systems, measured.</text>
-<text class="rise" x="30" y="120" font-size="19" fill="#8B98A9" style="animation-delay:.15s">From live SaaS to open-source research code. Every card ends in a number.</text>
+<rect x="0.5" y="0.5" width="1199" height="139" rx="20" fill="#181614" stroke="#36312B"/>
+<rect x="30" y="0" width="120" height="3" rx="1.5" fill="#D08A6C"/>
+<text class="mono" x="30" y="42" font-size="16" fill="#9CB088" letter-spacing="2" text-anchor="start">03 — SELECTED WORK</text>
+<text class="rise" x="28" y="88" font-size="40" font-weight="700" fill="#ECE4D6" letter-spacing="-0.5">Six systems, measured.</text>
+<text class="rise" x="30" y="120" font-size="19" fill="#A69D8F" style="animation-delay:.15s">From live SaaS to open-source research code. Every card ends in a number.</text>
 </svg>

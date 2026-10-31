@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="336" viewBox="0 0 540 336" role="img" aria-label="Child-Safe AI Tutor: Maths, Science &amp; English for Years 3–8 + GATE, one backend for web, mobile and WhatsApp. 3-layer safety screen on every message.">
 <title>Child-Safe AI Tutor: Maths, Science &amp; English for Years 3–8 + GATE, one backend for web, mobile and WhatsApp. 3-layer safety screen on every message.</title>
 <defs>
-<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9CB088"/><stop offset="1" stop-color="#8FA5B3"/></linearGradient>
 
 </defs>
 <style>
@@ -18,18 +18,18 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 
 </style>
 
-<rect x="0.5" y="0.5" width="539" height="335" rx="18" fill="#0D1117" stroke="#1F2733"/>
-<rect x="24" y="0" width="120" height="3" rx="1.5" fill="url(#grad)"/>
-<text class="mono" x="26" y="44" font-size="14" fill="#2DD4BF" letter-spacing="2" text-anchor="start">02 · EDTECH</text>
-<rect x="415.46" y="23" width="98.54" height="30" rx="15" fill="#FBBF24" fill-opacity=".10" stroke="#FBBF24" stroke-opacity=".45"/>
+<rect x="0.5" y="0.5" width="539" height="335" rx="18" fill="#1E1B18" stroke="#36312B"/>
+<rect x="24" y="0" width="120" height="3" rx="1.5" fill="#D08A6C"/>
+<text class="mono" x="26" y="44" font-size="14" fill="#9CB088" letter-spacing="2" text-anchor="start">02 · EDTECH</text>
+<rect x="415.46" y="23" width="98.54" height="30" rx="15" fill="#D5B072" fill-opacity=".10" stroke="#D5B072" stroke-opacity=".45"/>
 
-<text class="mono" x="428.46" y="43" font-size="13" fill="#FBBF24" letter-spacing="1">AKADEMY38</text>
-<text x="26" y="96" font-size="30" font-weight="700" fill="#E6EDF3" letter-spacing="-0.3">Child-Safe AI Tutor</text>
-<text x="26" y="134" font-size="18.5" fill="#8B98A9">Maths, Science &amp; English for Years 3–8 + GATE,</text>
-<text x="26" y="161" font-size="18.5" fill="#8B98A9">one backend for web, mobile and WhatsApp.</text>
-<line x1="26" y1="234.5" x2="514" y2="234.5" stroke="#1F2733"/>
-<text x="26" y="286" font-size="38" font-weight="700" fill="url(#grad)" letter-spacing="-0.5">3-layer</text>
-<text class="mono" x="26" y="314" font-size="13.5" fill="#8B98A9" letter-spacing="1">SAFETY SCREEN ON EVERY MESSAGE</text>
-<rect x="26" y="184" width="108.8" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="80.4" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">Claude API</text><rect x="142.8" y="184" width="82.75999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="184.18" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">FastAPI</text><rect x="233.56" y="184" width="108.8" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="287.96" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">PostgreSQL</text><rect x="350.36" y="184" width="65.4" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#1F2733"/><text class="mono" x="383.06" y="203" font-size="14" fill="#8B98A9" text-anchor="middle">Redis</text>
+<text class="mono" x="428.46" y="43" font-size="13" fill="#D5B072" letter-spacing="1">AKADEMY38</text>
+<text x="26" y="96" font-size="30" font-weight="700" fill="#ECE4D6" letter-spacing="-0.3">Child-Safe AI Tutor</text>
+<text x="26" y="134" font-size="18.5" fill="#A69D8F">Maths, Science &amp; English for Years 3–8 + GATE,</text>
+<text x="26" y="161" font-size="18.5" fill="#A69D8F">one backend for web, mobile and WhatsApp.</text>
+<line x1="26" y1="234.5" x2="514" y2="234.5" stroke="#36312B"/>
+<text x="26" y="286" font-size="38" font-weight="700" fill="#D08A6C" letter-spacing="-0.5">3-layer</text>
+<text class="mono" x="26" y="314" font-size="13.5" fill="#A69D8F" letter-spacing="1">SAFETY SCREEN ON EVERY MESSAGE</text>
+<rect x="26" y="184" width="108.8" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="80.4" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">Claude API</text><rect x="142.8" y="184" width="82.75999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="184.18" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">FastAPI</text><rect x="233.56" y="184" width="108.8" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="287.96" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">PostgreSQL</text><rect x="350.36" y="184" width="65.4" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#36312B"/><text class="mono" x="383.06" y="203" font-size="14" fill="#A69D8F" text-anchor="middle">Redis</text>
 
 </svg>
