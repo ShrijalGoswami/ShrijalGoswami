@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://shrijal-goswami.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181614?style=for-the-badge&logo=vercel&logoColor=9CB088" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/shrijal-goswami"><img src="https://img.shields.io/badge/LinkedIn-181614?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:goswamivansh999@gmail.com"><img src="https://img.shields.io/badge/Email-181614?style=for-the-badge&logo=gmail&logoColor=D5B072" alt="Email"/></a>
+  <a href="mailto:shrijalgoswami999@gmail.com"><img src="https://img.shields.io/badge/Email-181614?style=for-the-badge&logo=gmail&logoColor=D5B072" alt="Email"/></a>
   <a href="https://hirevo.in"><img src="https://img.shields.io/badge/Hirevo-live-9CB088?style=for-the-badge&labelColor=181614" alt="Hirevo is live"/></a>
 </p>
 
