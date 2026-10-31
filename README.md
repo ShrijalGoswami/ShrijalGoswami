@@ -7,7 +7,7 @@
   <a href="https://hirevo.in"><img src="https://img.shields.io/badge/Hirevo-live-9CB088?style=for-the-badge&labelColor=181614" alt="Hirevo is live"/></a>
 </p>
 
-<img src="./assets/terminal.svg" width="100%" alt="About: Shrijal Goswami, AI/ML Engineer, B.Tech CSE (AI and ML) at VIT Bhopal. AI Strategist at AKademy38. Shipped Hirevo, Booklet Engine, AI Tutor and Resume Intelligence."/>
+<img src="./assets/terminal.svg" width="100%" alt="About: Shrijal Goswami, AI/ML Engineer, B.Tech CSE (AI and ML) at VIT Bhopal. Building Hirevo; previously AI Strategist at AKademy38. Shipped Hirevo, Booklet Engine, AI Tutor and Resume Intelligence."/>
 
 <img src="./assets/metrics.svg" width="100%" alt="Measured: 99.25% test accuracy, about 10x lower token cost, 89.13% CV accuracy, about 45 ms retrieval latency, 4 AI systems shipped to production."/>
 
@@ -26,7 +26,7 @@
   <a href="https://shrijal-goswami.vercel.app"><img src="./assets/card-resume.svg" width="49%" alt="Resume Intelligence Platform: 5-stage NLP pipeline, built at Pinnacle Labs."/></a>
 </p>
 
-<img src="./assets/experience.svg" width="100%" alt="Experience: AI Strategist at AKademy38, built and launched Hirevo, AI/ML Intern at Pinnacle Labs, Data Science Club at VIT Bhopal. GSSoC 26 contributor and DataForge hackathon finalist."/>
+<img src="./assets/experience.svg" width="100%" alt="Experience: AI Product Engineer at Hirevo, AI Strategist at AKademy38 (to Oct 2026), AI/ML Intern at Pinnacle Labs (May-Jun 2026), Data Science Club at VIT Bhopal. GSSoC 26 contributor and DataForge hackathon finalist."/>
 
 <img src="./assets/toolbox.svg" width="100%" alt="Toolbox: Python, SQL, C++, TypeScript, PyTorch, scikit-learn, XGBoost, OpenCV, RAG, LangChain, ChromaDB, Groq, Claude API, FastAPI, Streamlit, PostgreSQL, Redis."/>
 

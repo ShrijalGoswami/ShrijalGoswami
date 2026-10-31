@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Experience: AI Strategist at AKademy38 (2026-now); built and launched Hirevo (2026-now); AI/ML Intern at Pinnacle Labs (2025-2026); Data Science Club, VIT Bhopal (Aug 2025-now). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.">
-<title>Experience: AI Strategist at AKademy38 (2026-now); built and launched Hirevo (2026-now); AI/ML Intern at Pinnacle Labs (2025-2026); Data Science Club, VIT Bhopal (Aug 2025-now). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Experience: AI Product Engineer, Hirevo (Sep 2026-now); AI Strategist at AKademy38 (2026-Oct 2026); AI/ML Intern at Pinnacle Labs (May-Jun 2026); Data Science Club, VIT Bhopal (Aug 2025-now). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.">
+<title>Experience: AI Product Engineer, Hirevo (Sep 2026-now); AI Strategist at AKademy38 (2026-Oct 2026); AI/ML Intern at Pinnacle Labs (May-Jun 2026); Data Science Club, VIT Bhopal (Aug 2025-now). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.</title>
 <defs>
 <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9CB088"/><stop offset="1" stop-color="#8FA5B3"/></linearGradient>
 
@@ -19,28 +19,28 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 </style>
 <rect x="0.5" y="0.5" width="1199" height="559" rx="20" fill="#181614" stroke="#36312B"/><text class="mono" x="30" y="42" font-size="16" fill="#9CB088" letter-spacing="2" text-anchor="start">04 — EXPERIENCE</text><line x1="44" y1="100" x2="44" y2="516" stroke="#36312B" stroke-width="2"/>
 <g class="rise" style="animation-delay:0.1s">
-  <circle cx="44" cy="100" r="11" fill="#D5B072" fill-opacity=".18"/>
-  <circle cx="44" cy="100" r="5.5" fill="#D5B072"/>
-  <text class="mono" x="72" y="106" font-size="14" fill="#D5B072" letter-spacing="1.5">2026 — NOW</text>
-  <text x="72" y="136" font-size="23" font-weight="700" fill="#ECE4D6">AI Strategist · AKademy38</text>
-  <text x="72" y="162" font-size="17" fill="#A69D8F">Australia-based EdTech, remote. Built the Booklet Engine</text>
-  <text x="72" y="185" font-size="17" fill="#A69D8F">(~10× lower token cost) and a child-safe AI tutor.</text>
+  <circle cx="44" cy="100" r="11" fill="#9CB088" fill-opacity=".18"/>
+  <circle cx="44" cy="100" r="5.5" fill="#9CB088"/>
+  <text class="mono" x="72" y="106" font-size="14" fill="#9CB088" letter-spacing="1.5">SEP 2026 — NOW</text>
+  <text x="72" y="136" font-size="23" font-weight="700" fill="#ECE4D6">AI Product Engineer · Hirevo</text>
+  <text x="72" y="162" font-size="17" fill="#A69D8F">AI recruiting platform, live at hirevo.in: resume</text>
+  <text x="72" y="185" font-size="17" fill="#A69D8F">parsing, semantic matching, LLM recruiter Copilot.</text>
 </g>
 <g class="rise" style="animation-delay:0.22s">
-  <circle cx="44" cy="212" r="11" fill="#9CB088" fill-opacity=".18"/>
-  <circle cx="44" cy="212" r="5.5" fill="#9CB088"/>
-  <text class="mono" x="72" y="218" font-size="14" fill="#9CB088" letter-spacing="1.5">2026 — NOW</text>
-  <text x="72" y="248" font-size="23" font-weight="700" fill="#ECE4D6">Built &amp; launched Hirevo</text>
-  <text x="72" y="274" font-size="17" fill="#A69D8F">AI resume-screening SaaS, live at hirevo.in</text>
-  <text x="72" y="297" font-size="17" fill="#A69D8F">and indexed on Google Search.</text>
+  <circle cx="44" cy="212" r="11" fill="#D5B072" fill-opacity=".18"/>
+  <circle cx="44" cy="212" r="5.5" fill="#D5B072"/>
+  <text class="mono" x="72" y="218" font-size="14" fill="#D5B072" letter-spacing="1.5">2026 — OCT 2026</text>
+  <text x="72" y="248" font-size="23" font-weight="700" fill="#ECE4D6">AI Strategist · AKademy38</text>
+  <text x="72" y="274" font-size="17" fill="#A69D8F">Australia-based EdTech, remote. Built the Booklet Engine</text>
+  <text x="72" y="297" font-size="17" fill="#A69D8F">(~10× lower token cost) and a child-safe AI tutor.</text>
 </g>
 <g class="rise" style="animation-delay:0.33999999999999997s">
   <circle cx="44" cy="324" r="11" fill="#8FA5B3" fill-opacity=".18"/>
   <circle cx="44" cy="324" r="5.5" fill="#8FA5B3"/>
-  <text class="mono" x="72" y="330" font-size="14" fill="#8FA5B3" letter-spacing="1.5">2025 — 2026</text>
+  <text class="mono" x="72" y="330" font-size="14" fill="#8FA5B3" letter-spacing="1.5">MAY — JUN 2026</text>
   <text x="72" y="360" font-size="23" font-weight="700" fill="#ECE4D6">AI/ML Intern · Pinnacle Labs</text>
-  <text x="72" y="386" font-size="17" fill="#A69D8F">Built the Resume Intelligence Platform: NLP résumé</text>
-  <text x="72" y="409" font-size="17" fill="#A69D8F">parsing, ATS scoring and candidate profiling.</text>
+  <text x="72" y="386" font-size="17" fill="#A69D8F">Built the Resume Intelligence Platform solo: NLP résumé</text>
+  <text x="72" y="409" font-size="17" fill="#A69D8F">parsing and ATS scoring. Later upgraded into Hirevo.</text>
 </g>
 <g class="rise" style="animation-delay:0.45999999999999996s">
   <circle cx="44" cy="436" r="11" fill="#A69D8F" fill-opacity=".18"/>
