@@ -69,6 +69,16 @@ I'm continuously learning, building, and refining my skills to design systems th
 
 ---
 
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShrijalGoswami/ShrijalGoswami/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShrijalGoswami/ShrijalGoswami/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ShrijalGoswami/ShrijalGoswami/output/github-snake.svg" />
+</picture>
+
+---
+
 <p align="center">
 Engineering intelligent systems with clarity and purpose.
 </p>
