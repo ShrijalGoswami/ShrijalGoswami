@@ -26,7 +26,7 @@
   <a href="https://shrijal-goswami.vercel.app"><img src="./assets/card-resume.svg" width="49%" alt="Resume Intelligence Platform: 5-stage NLP pipeline, built at Pinnacle Labs."/></a>
 </p>
 
-<img src="./assets/experience.svg" width="100%" alt="Experience: AI Product Engineer at Hirevo, AI Strategist at AKademy38 (to Oct 2026), AI/ML Intern at Pinnacle Labs (May-Jun 2026), Data Science Club at VIT Bhopal. GSSoC 26 contributor and DataForge hackathon finalist."/>
+<img src="./assets/experience.svg" width="100%" alt="Experience: AI Product Engineer at Hirevo, AI Strategist at AKademy38 (Jul-Oct 2026), AI/ML Intern at Pinnacle Labs (May-Jun 2026), Data Science Club at VIT Bhopal. GSSoC 26 contributor and DataForge hackathon finalist."/>
 
 <img src="./assets/toolbox.svg" width="100%" alt="Toolbox: Python, SQL, C++, TypeScript, PyTorch, scikit-learn, XGBoost, OpenCV, RAG, LangChain, ChromaDB, Groq, Claude API, FastAPI, Streamlit, PostgreSQL, Redis."/>
 

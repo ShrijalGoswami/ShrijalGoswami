@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Experience: AI Product Engineer, Hirevo (Sep 2026-now); AI Strategist at AKademy38 (2026-Oct 2026); AI/ML Intern at Pinnacle Labs (May-Jun 2026); Data Science Club, VIT Bhopal (Aug 2025-now). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.">
-<title>Experience: AI Product Engineer, Hirevo (Sep 2026-now); AI Strategist at AKademy38 (2026-Oct 2026); AI/ML Intern at Pinnacle Labs (May-Jun 2026); Data Science Club, VIT Bhopal (Aug 2025-now). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Experience: AI Product Engineer, Hirevo (Sep 2026-now); AI Strategist at AKademy38 (Jul-Oct 2026); AI/ML Intern at Pinnacle Labs (May-Jun 2026); Data Science Club, VIT Bhopal (Aug 2025-Aug 2026). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.">
+<title>Experience: AI Product Engineer, Hirevo (Sep 2026-now); AI Strategist at AKademy38 (Jul-Oct 2026); AI/ML Intern at Pinnacle Labs (May-Jun 2026); Data Science Club, VIT Bhopal (Aug 2025-Aug 2026). On the record: Hirevo live, GSSoC 26 contributor, DataForge finalist at IITR E-Summit 26.</title>
 <defs>
 <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9CB088"/><stop offset="1" stop-color="#8FA5B3"/></linearGradient>
 
@@ -29,7 +29,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <g class="rise" style="animation-delay:0.22s">
   <circle cx="44" cy="212" r="11" fill="#D5B072" fill-opacity=".18"/>
   <circle cx="44" cy="212" r="5.5" fill="#D5B072"/>
-  <text class="mono" x="72" y="218" font-size="14" fill="#D5B072" letter-spacing="1.5">2026 — OCT 2026</text>
+  <text class="mono" x="72" y="218" font-size="14" fill="#D5B072" letter-spacing="1.5">JUL — OCT 2026</text>
   <text x="72" y="248" font-size="23" font-weight="700" fill="#ECE4D6">AI Strategist · AKademy38</text>
   <text x="72" y="274" font-size="17" fill="#A69D8F">Australia-based EdTech, remote. Built the Booklet Engine</text>
   <text x="72" y="297" font-size="17" fill="#A69D8F">(~10× lower token cost) and a child-safe AI tutor.</text>
@@ -45,7 +45,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <g class="rise" style="animation-delay:0.45999999999999996s">
   <circle cx="44" cy="436" r="11" fill="#A69D8F" fill-opacity=".18"/>
   <circle cx="44" cy="436" r="5.5" fill="#A69D8F"/>
-  <text class="mono" x="72" y="442" font-size="14" fill="#A69D8F" letter-spacing="1.5">AUG 2025 — NOW</text>
+  <text class="mono" x="72" y="442" font-size="14" fill="#A69D8F" letter-spacing="1.5">AUG 2025 — AUG 2026</text>
   <text x="72" y="472" font-size="23" font-weight="700" fill="#ECE4D6">Data Science Club · VIT Bhopal</text>
   <text x="72" y="498" font-size="17" fill="#A69D8F">EDA and predictive-modelling projects;</text>
   <text x="72" y="521" font-size="17" fill="#A69D8F">organised bootcamps for student developers.</text>
